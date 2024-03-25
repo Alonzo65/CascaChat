@@ -18,6 +18,7 @@ This project showcases a Chat bot that will interact with the user and teach the
 
 
 #Setup:
+
 -Go into the backend directory and into the .env file, here you will need to populate the variables OPEN_AI_ORG and OPEN_AI_KEY with your openai keys/secrets, as well as ELEVEN_LABS_API_KEY variable with your eleven labs key from your account.
 
 -First make sure you have the latest version of Python installed as well as Node.js. Then in a terminal you will do _npm install --global yarn_ to get the latest version of yarn. Next, you will enter _npm i ts-node@10.9.1_ or a later version and press enter.
