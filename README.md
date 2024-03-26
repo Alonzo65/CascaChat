@@ -22,7 +22,7 @@ This project showcases a Chat bot that will interact with the user and teach the
 - <b>Installations:</b>
   - Go into the backend directory and into the .env file, here you will need to populate the variables OPEN_AI_ORG and OPEN_AI_KEY with your openai keys/secrets, as well as ELEVEN_LABS_API_KEY variable with your eleven labs key from your account.
   - First make sure you have the latest version of Python installed as well as Node.js. Then in a terminal you will do _npm install --global yarn_ to get the latest version of yarn. Next, you will enter _npm i ts-node@10.9.1_ or a later version and press enter.
-  - Make sure to install all the packages from requirements.txt as well by doing _pip install -r requirements. txt_ in the terminal. Also make sure to install uvicorn by typing _pip install 'uvicorn[standard]'_ into the terminal and press enter, if you encounter any issues go to uvicorn website to troubleshoot [here](https://www.uvicorn.org/). Then change directory into frontend and type _yarn --exact_ into the terminal to install all dependencies.
+  - Make sure to install all the packages from requirements.txt as well by doing _pip install -r requirements.txt_ in the terminal. Also make sure to install uvicorn by typing _pip install 'uvicorn[standard]'_ into the terminal and press enter, if you encounter any issues go to uvicorn website to troubleshoot [here](https://www.uvicorn.org/). Then change directory into frontend and type _yarn --exact_ into the terminal to install all dependencies.
 
 - <b>Steps:</b>
   - Step 1: You will need two open terminals in the CascaChat directory(this can easily be done in VS Code).
